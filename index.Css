@@ -1,0 +1,9 @@
+p { 
+    color: purple;
+    font-family: "Times New Roman";
+    font-size: 52px; 
+    font-weight: italcs;
+}
+a [target] { 
+    background-color: black;
+}
